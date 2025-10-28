@@ -1,6 +1,4 @@
-# 📘 **README.md — Praktikum 6: Twitter Bootstrap**
 
-````markdown
 # 🧩 Praktikum 6: Twitter Bootstrap
 
 # 🌐 Praktikum 5 – JavaScript
@@ -20,8 +18,6 @@
 Praktikum ini membahas penerapan **CSS Framework Bootstrap** untuk membangun tampilan web yang **responsif**, **modern**, dan **cepat dikembangkan** tanpa menulis CSS manual secara berlebihan.  
 Bootstrap menyediakan komponen siap pakai seperti **navbar, grid system, button, card, dan form** yang memudahkan proses pembuatan antarmuka web.
 
----
-
 ## 🎯 **Tujuan Praktikum**
 1. Memahami konsep **CSS Framework**.
 2. Mengetahui fungsi dan penggunaan **Bootstrap 5**.
@@ -29,7 +25,6 @@ Bootstrap menyediakan komponen siap pakai seperti **navbar, grid system, button,
 4. Menggunakan komponen Bootstrap seperti **Navbar**, **Card**, dan **Form**.
 5. Membangun layout web sederhana menggunakan Bootstrap.
 
----
 
 ## ⚙️ **Langkah-Langkah Praktikum**
 
@@ -38,10 +33,8 @@ Tambahkan CDN Bootstrap pada file `index.html`:
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
-````
 
----
-
+```
 ### 2️⃣ Container dan Grid System
 
 Gunakan `.container` untuk pembungkus konten dan `.row` + `.col` untuk sistem grid 12 kolom.
